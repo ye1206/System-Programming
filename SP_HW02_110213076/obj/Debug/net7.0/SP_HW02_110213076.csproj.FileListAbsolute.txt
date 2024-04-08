@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\bin\Debug\net7.0\SP_HW02_110213076.exe
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\bin\Debug\net7.0\SP_HW02_110213076.deps.json
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\bin\Debug\net7.0\SP_HW02_110213076.runtimeconfig.json
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\bin\Debug\net7.0\SP_HW02_110213076.dll
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\bin\Debug\net7.0\SP_HW02_110213076.pdb
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.AssemblyInfo.cs
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.dll
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\refint\SP_HW02_110213076.dll
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.pdb
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\SP_HW02_110213076.genruntimeconfig.cache
+C:\Users\alice\Desktop\Junior\System Programming\SP_HW02_110213076\obj\Debug\net7.0\ref\SP_HW02_110213076.dll
