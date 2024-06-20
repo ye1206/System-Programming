@@ -1,0 +1,14 @@
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\bin\Debug\net7.0\11023076鄭鈺曄.exe
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\bin\Debug\net7.0\11023076鄭鈺曄.deps.json
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\bin\Debug\net7.0\11023076鄭鈺曄.runtimeconfig.json
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\bin\Debug\net7.0\11023076鄭鈺曄.dll
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\bin\Debug\net7.0\11023076鄭鈺曄.pdb
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.AssemblyInfoInputs.cache
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.AssemblyInfo.cs
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.csproj.CoreCompileInputs.cache
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.dll
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\refint\11023076鄭鈺曄.dll
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.pdb
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\11023076鄭鈺曄.genruntimeconfig.cache
+C:\Users\alice\Desktop\Junior\System Programming\110213076鄭鈺曄_SIC\obj\Debug\net7.0\ref\11023076鄭鈺曄.dll

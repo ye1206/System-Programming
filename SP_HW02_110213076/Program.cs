@@ -14,7 +14,7 @@ namespace SP_HW02_110213076
             Console.Write("Please input label and address: ");
             input = Console.ReadLine();
             string[] data = input.Split(' '); // Split the input by space
-            for (i = 0; i < data.Length; i += 2)
+            for (i = 0; i < data.Length; i ++)
                 symbolTable.Add(data[i], data[i + 1]); // Add the label and address to the symbol table
 
             Console.Write("Search (input the label): ");
